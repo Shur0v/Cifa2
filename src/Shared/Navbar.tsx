@@ -1,4 +1,4 @@
-import React from "react";
+
 import logo from "../assets/img/logo.svg";
 import menu from "../assets/img/menu.svg";
 

@@ -1,4 +1,4 @@
-import React from "react";
+
 import cd1 from "../../assets/img/card/cd1.svg";
 import cd2 from "../../assets/img/card/cd2.svg";
 import cd3 from "../../assets/img/card/cd3.svg";
@@ -9,7 +9,7 @@ const Slider = () => {
   return (
     <>
       <div className="content h-auto w-full bg-color10 text-color1 flex flex-col justify-center items-center">
-        <h1 className="text-4xl sm:text-6xl font-semibold text-center pt-12 sm:pt-24">
+        <h1 className="text-4xl sm:text-6xl font-semibold text-center pt-12 sm:pt-24 lg:w-[50%] lg:mx-auto">
           Explore a Wide Range of Accredited Courses!
         </h1>
         <p className="text-center text-md text-[#a5a19d] font-medium sm:text-xl py-8 sm:py-16 px-8">
@@ -20,7 +20,7 @@ const Slider = () => {
       <div className="cards  bg-color10 p-6">
         <div className="single text-color1 pb-12 sm:pb-24">
 
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 mx-auto place-items-center">
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 mx-auto place-items-center lg:w-[1060px]">
             {/* Add a gap here */}
             <div className="w-[249.22px] h-[441.17px] flex-col justify-start items-start gap-[13.52px] inline-flex">
               <div className="w-[249.22px] h-[366.66px] relative">

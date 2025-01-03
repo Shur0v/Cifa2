@@ -1,4 +1,4 @@
-import React from "react";
+
 import Team from "../../assets/img/cifa.png";
 
 const Cifa = () => {

@@ -1,4 +1,4 @@
-import React from "react";
+
 // import bg1 from "../../assets/img/bg1.png"
 import "./style.css";
 import play from "../../assets/img/play.svg";

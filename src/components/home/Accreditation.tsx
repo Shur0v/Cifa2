@@ -1,4 +1,4 @@
-import React from "react";
+
 import cpd from "../../assets/img/cpd.png";
 
 const Accreditation = () => {

@@ -30,9 +30,9 @@ export default {
         scroll: "scroll 35s linear infinite",
       },
       backgroundImage: {
-        bannerImg : "URL('./src/assets/img/bg1.png')",
-        onlineexam: "URL('./src/assets/img/Users/Online-exam.png')",
-        onlineexam2: "URL('./src/assets/img/Users/Onlineexam2.png')",
+        bannerImg : "URL('/assets/img/bg1.png')",
+        onlineexam: "URL('/assets/img/Users/Online-exam.png')",
+        onlineexam2: "URL('/assets/img/Users/Onlineexam2.png')",
       },
     },
   },
